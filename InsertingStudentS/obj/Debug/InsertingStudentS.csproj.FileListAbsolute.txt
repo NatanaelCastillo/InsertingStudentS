@@ -1,0 +1,10 @@
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\bin\Debug\InsertingStudentS.exe.config
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\bin\Debug\InsertingStudentS.exe
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\bin\Debug\InsertingStudentS.pdb
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\obj\Debug\InsertingStudentS.csprojResolveAssemblyReference.cache
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\obj\Debug\InsertingStudentS.Form1.resources
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\obj\Debug\InsertingStudentS.Properties.Resources.resources
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\obj\Debug\InsertingStudentS.csproj.GenerateResource.Cache
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\obj\Debug\InsertingStudentS.exe
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\obj\Debug\InsertingStudentS.pdb
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\InsertingStudentS\InsertingStudentS\obj\Debug\InsertingStudentS.Insert.resources
